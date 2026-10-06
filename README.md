@@ -6,7 +6,6 @@
 > Windows 10 / 11 · 免安装 · 纯本地运行 · 默认只预览不改文件 · 每步可撤销
 
 <p align="center">
-  <img src="docs/images/screenshot-main.png" width="820" alt="主界面">
 </p>
 
 ---
