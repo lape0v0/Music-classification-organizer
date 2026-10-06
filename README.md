@@ -6,7 +6,6 @@
 > Windows 10 / 11 · 免安装 · 纯本地运行 · 默认只预览不改文件 · 每步可撤销
 
 <p align="center">
-  <img src="docs/images/screenshot-main.png" width="820" alt="主界面">
 </p>
 
 ---
@@ -156,7 +155,6 @@ iTunes 返回**结构化流派字段**（`Mandopop`、`Cantopop/HK-Pop`、`Hip-H
 界面显示进度与预计剩余时间，随时可点【取消】：
 
 <p align="center">
-  <img src="docs/images/screenshot-lookup.png" width="820" alt="联网查询进行中">
 </p>
 
 ### 分类准确率：一次真实的回放测试
@@ -234,7 +232,6 @@ GAI=说唱
 修正表**优先于联网结果**，且不触发网络请求。
 
 <p align="center">
-  <img src="docs/images/screenshot-rules.png" width="520" alt="识别与归并规则">
 </p>
 
 ### 频率上限说明
